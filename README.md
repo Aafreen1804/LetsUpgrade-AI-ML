@@ -1,6 +1,6 @@
 # LetsUpgrade-AI-ML
-Assignments
-syllabus<br/>
+Assignments submission under the LetsUpgrade AI- ML program <br/>
+SYLLABUS<br/>
 Lesson 1: Introduction to AI-ML-DL<br/>
 Lesson 2: Python Introduction<br/>
 Lesson 3: Python Data Structures<br/>

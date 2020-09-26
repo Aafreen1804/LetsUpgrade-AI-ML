@@ -65,7 +65,55 @@ Lesson 7: Pandas<br/>
 -exploratory data analysis \
  --using boxplot , correlation, heatmap (also pairplot, barplot, scatterplot etc)\
 Lesson 8: Supervised Learning Algorithm<br/>\
--linear regression\
+- https://miro.medium.com/max/1436/1*k2bLmeYIG7z7dCyxADedhQ.png linear regression\
  --regression vs classification\
  --linear regression performance metrices, error estimation and cost function , implementation steps\
+ --types of statistical variables : dependent and independent (for regression both should be continuous)\
+ --assumtions of regression( heteroskedasticity, multi colinearity, auto correlation)\
+-multiple linear regression https://slideplayer.com/slide/3264326/11/images/4/Multiple+Regression+Model.jpg\
+-logistic regression http://faculty.cas.usf.edu/mbrannick/regression/gifs/lo4.gif\
+ --IV categorical, continuous, DV binary categorical\
+ --p val<0.05 where 0 is for the most important feature\
+ --understand how to use the summary coefficient\
+ --diff between linear and logistic regression\
+-decision tree\
+ --diff bw correlation and regression\
+ --IV categorical and continuous, DV categorical\
+ -- decision tree does both classification and prediction\
+ --variable type and split type\
+ --node impurity\
+ --decision tree algos( ID3, CART)\
+ --adv disadv of decision trees\
+ --apply decision tree and get accuracy and webgraphviz\
+-random forest (ensemble of decision tree)\
+ --finding important features through random forest\
+ --using decision tree over these features and finding accuracy\
+-Naive bayes\
+ --IV, DV are categorical\
+ --naive bayes theorem (conditional probablity)\
+ --how to read a confusion matrix\
+-KNN\
+ --classification using euclidians distance\
+ --choosing k value, finding the best k value\
+ --practicals : choose random k values, keep changing k to find the best k\
+-SVM.........................................................................\
+ --drawing hyperplanes\
+ --point close to hyperplane is called SV\
+ --margin linear is the distance beteen 2 Sv\
+Lesson 12: Un-Supervised Algorithms<br/>
+-association rule ( for building recommendation systems to find frequently occuring combination of items)\
+-support : prob of buying of an item\
+-confidence: prob of buying a combination of items\
+-methods: MBA( fast and slow moving itemset grouped), Aripori algo(frequently purchased itemset)\
+-association mining \
+-market basket analysis\
+-k means clustering\
+ --classify data without first having been trained with labeled data\
+ --apllication: CV, search engine\
+ --steps for the algo\
+ --find the elbow which will give the right value of k\
+ --day 30 LDA, PCA..............................................................\
+
+ 
+
   

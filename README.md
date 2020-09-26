@@ -64,7 +64,7 @@ Lesson 7: Pandas<br/>
 -practicals on how to go about with missing values\
 -exploratory data analysis \
  --using boxplot , correlation, heatmap (also pairplot, barplot, scatterplot etc)\
-Lesson 8: Supervised Learning Algorithm<br/>\
+Lesson 8: Supervised Learning Algorithm<br/>
 - https://miro.medium.com/max/1436/1*k2bLmeYIG7z7dCyxADedhQ.png linear regression\
  --regression vs classification\
  --linear regression performance metrices, error estimation and cost function , implementation steps\
